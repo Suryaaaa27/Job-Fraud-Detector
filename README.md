@@ -64,7 +64,8 @@ gunicorn==21.2.0
 
 📌 Sample Screenshot
 ![Screenshot 2025-05-30 210636](https://github.com/user-attachments/assets/53aa47ee-f901-49c3-a185-4acd245d6093)
-![Screenshot 2025-05-28 182327](https://github.com/user-attachments/assets/aa0bbdc6-2bf4-40b4-8fd5-68e982a88db5)
+![Screenshot 2025-05-28 182941](https://github.com/user-attachments/assets/471a54c9-46eb-4cff-bdc8-56f369ee42b9)
+
 
 🤝 Contributing:
 Contributions are welcome! Please read the contributing guidelines first.
